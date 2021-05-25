@@ -8191,10 +8191,10 @@ var congressional_districts = [{
             var district4 = new L.GeoJSON();
             district4.addData(congressional_districts[3].location[0]).addTo(myMap3);
             var district5 = new L.GeoJSON();
-            district1.addData(congressional_districts[4].location[0]).addTo(myMap3);
+            district5.addData(congressional_districts[4].location[0]).addTo(myMap3);
             var district6 = new L.GeoJSON();
-            district2.addData(congressional_districts[5].location[0]).addTo(myMap3);
+            district6.addData(congressional_districts[5].location[0]).addTo(myMap3);
             var district7 = new L.GeoJSON();
-            district3.addData(congressional_districts[6].location[0]).addTo(myMap3);
+            district7.addData(congressional_districts[6].location[0]).addTo(myMap3);
             var district8 = new L.GeoJSON();
-            district4.addData(congressional_districts[7].location[0]).addTo(myMap3);
+            district8.addData(congressional_districts[7].location[0]).addTo(myMap3);
